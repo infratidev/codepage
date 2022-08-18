@@ -179,6 +179,7 @@ footerContent = "infracode || infrati .dev"
 avatarURL = "img/avatar.png"
 dateFormat = "January 2, 2006"
 hideColorSchemeToggle = false
+favicon_32 = "img/favicon-32x32.png"
 
 [[languages.pt-br.menu.main]]
 name = "Sobre"
