@@ -172,7 +172,7 @@ title = "Home"
 
 [languages.pt-br.params]
 author = "Andrei"
-info = ["infracode.dev || infrati.dev", "Always learning new technology skills"]
+info = ["infracode || infrati .dev", "Always learning new technology skills"]
 description = "Always learning new technology skills"
 keywords = "kubernetes,containers,terraform,python,ansible,ci/cd,cloud plataforms,aws,azure,gcp,oci,atlantis,github-action,pipeline,linux,docker"
 footerContent = "infracode || infrati .dev"
