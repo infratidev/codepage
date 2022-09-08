@@ -129,6 +129,12 @@ icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/andreirp/"
 
+[[params.social]]
+  name = "Wakatime"
+  image = "img/wakatime.svg"
+  weight = 4
+  url = "https://wakatime.com/@andreirp"
+
 #[[params.social]]
 #name = "Medium"
 #icon = "fa fa-2x fa-medium"
